@@ -1,11 +1,11 @@
 <p align="center">
   <img width="2520" height="690" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/a5ce276a-d543-4167-92e7-c135c65c5dd8" />
-" />
+
 </p>
 
 <h1 align="center">Hi 👋 I'm Tamanna Akter</h1>
 
-<h3 align="center">Frontend Developer | MERN Stack Learner</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Learner</h3>
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 🔥 Current Activities
 
-- 🚀 Exploring node.js,Express.js, MongoDB
+- 🚀 Exploring node.js,Express.js, MongoDB,Next.js,Typescript
 - 🌍 Working on Full Stack Projects
 - 📚 Learning Backend Development
 
