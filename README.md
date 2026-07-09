@@ -1,10 +1,6 @@
 <p align="center">
   <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
-<p align="center">
-  <img src="./banner.png" alt="GitHub Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Tamanna Akter</h1>
 
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
